@@ -3,6 +3,6 @@ MatchingCard game for iPhone6 with two game modes still pretty early stages but 
 To make play around with it and the code:
 - Download the repository
 - Open xCode
-- Select "add existin project"
+- Select "add existing project"
 - look for the Matchismo.xcodeproj
 - Click it, follow instructions, run it selecting iPhone 6 simulator
