@@ -4,5 +4,5 @@ To make play around with it and the code:
 - Download the repository
 - Open xCode
 - Select "add existing project"
-- look for the Matchismo.xcodeproj under "Matchismo copy.xcodeproj folder".
+- Look for the Matchismo.xcodeproj under "Matchismo copy.xcodeproj folder".
 - Click it, follow instructions, run it selecting iPhone 6 simulator
